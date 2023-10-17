@@ -1,0 +1,67 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 96vh;
+}
+
+.steps {
+    display:  flex;
+}
+
+.step {
+    border: 2px solid grey;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    text-align: center;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: grey;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    transition: .3s;
+}
+
+.active-step {
+    border: 3px solid rgb(0, 137, 249);
+    transition: .5s;
+}
+
+.connector {
+    height: 4px;
+    width: 50px;
+    background-color: grey;
+    margin: 13px 0;
+    transition: all .5s ease-out;
+}
+
+.active-connector {
+    background-color: rgb(0, 137, 249);
+    transition: all .1s ease-out;
+}
+
+.btns {
+    margin: 2rem;
+}
+
+.btn {
+    border: none;
+    padding: 0.5rem 1.5rem;
+    border-radius: 0.5rem;
+    background-color: rgb(191, 191, 191);
+    color: white;
+    cursor: not-allowed;
+    margin:  0 0.25rem;
+}
+.btn:active {
+    transform: scale(0.98);
+}
+
+.active-btn {
+    background-color: rgb(0, 137, 249);
+    cursor: pointer;
+}
