@@ -27,10 +27,16 @@ The first player to score 100 or more points wins.
 
 #### 3. Expanding Cards:
 
-This expanding cards pattern displays an expanded view of the card on click. It expands with nice animation.
+Expanding cards are interactive containers or panels that initially appear as compact or condensed elements on a webpage. When a user clicks a card, they expand or unfold to reveal additional content or information. This expansion is accompanied by animations and transitions, making the process smooth and visually appealing. This can be used to show some testimonials, photo galleries, FAQs, etc.
 
 <img width="250" alt="Screenshot 2023-10-16 092055" src="https://github.com/abitewaddisu/javascript_mini_projects/assets/104774854/da3598b3-a7fa-4038-ac08-c51c9e9e605e">
-
 <img width="250" alt="Screenshot 2023-10-16 092139" src="https://github.com/abitewaddisu/javascript_mini_projects/assets/104774854/3c42c7fe-7a3a-436a-beee-4bf32259066f">
-
 <img width="250" alt="Screenshot 2023-10-16 092234" src="https://github.com/abitewaddisu/javascript_mini_projects/assets/104774854/72a8290f-b825-4d96-aa9f-6b4f4f90e470">
+
+#### 4. Progress Steps
+
+The progress steps pattern shows where you are from the whole process. It is a powerful tool, used to show users the progress of work in a step format. This can be used on registration or some other step by step by processes.
+
+<img width="250" alt="Screenshot 2023-10-17 092227" src="https://github.com/abitewaddisu/javascript_mini_projects/assets/104774854/362aec5c-c5d0-42b1-959c-21b8a7b9c237">
+<img width="250" alt="Screenshot 2023-10-17 092310" src="https://github.com/abitewaddisu/javascript_mini_projects/assets/104774854/f1471632-3715-4423-bdf3-3005225e0974">
+<img width="250" alt="Screenshot 2023-10-17 092400" src="https://github.com/abitewaddisu/javascript_mini_projects/assets/104774854/7e92930c-3b9f-48fb-8542-a55f3198c1e7">
