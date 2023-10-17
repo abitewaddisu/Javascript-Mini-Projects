@@ -24,3 +24,13 @@ The first player to score 100 or more points wins.
 <img width="250" alt="Screenshot 2023-10-04 104552" src="https://github.com/abitewaddisu/javascript_mini_projects/assets/104774854/8ccefda6-b820-4e28-b890-7b75e22b156a">
 <img width="250" alt="Screenshot 2023-10-04 104740" src="https://github.com/abitewaddisu/javascript_mini_projects/assets/104774854/75c7c79e-b14a-4b2e-a59b-509248cc594c">
 <img width="250" alt="Screenshot 2023-10-04 104841" src="https://github.com/abitewaddisu/javascript_mini_projects/assets/104774854/380181f4-8324-493a-af51-4b1823a01c17">
+
+#### 3. Expanding Cards:
+
+This expanding cards pattern displays an expanded view of the card on click. It expands with nice animation.
+
+<img width="250" alt="Screenshot 2023-10-16 092055" src="https://github.com/abitewaddisu/javascript_mini_projects/assets/104774854/da3598b3-a7fa-4038-ac08-c51c9e9e605e">
+
+<img width="250" alt="Screenshot 2023-10-16 092139" src="https://github.com/abitewaddisu/javascript_mini_projects/assets/104774854/3c42c7fe-7a3a-436a-beee-4bf32259066f">
+
+<img width="250" alt="Screenshot 2023-10-16 092234" src="https://github.com/abitewaddisu/javascript_mini_projects/assets/104774854/72a8290f-b825-4d96-aa9f-6b4f4f90e470">
