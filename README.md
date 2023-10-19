@@ -40,3 +40,10 @@ The progress steps pattern shows where you are from the whole process. It is a p
 <img width="250" alt="Screenshot 2023-10-17 092227" src="https://github.com/abitewaddisu/javascript_mini_projects/assets/104774854/362aec5c-c5d0-42b1-959c-21b8a7b9c237">
 <img width="250" alt="Screenshot 2023-10-17 092310" src="https://github.com/abitewaddisu/javascript_mini_projects/assets/104774854/f1471632-3715-4423-bdf3-3005225e0974">
 <img width="250" alt="Screenshot 2023-10-17 092400" src="https://github.com/abitewaddisu/javascript_mini_projects/assets/104774854/7e92930c-3b9f-48fb-8542-a55f3198c1e7">
+
+#### 5. Rotating Navigation
+
+In rotating navigation, the navigation options are presented in a circular or rotating format when the user clicks on the menu button or icon on the top left corner. It creates engaging and visually appealing navigation experience.
+
+<img width="400" alt="Screenshot 2023-10-18 104216" src="https://github.com/abitewaddisu/javascript_mini_projects/assets/104774854/a4b3c851-a8f5-43a5-9e11-2fe1200e12bc">
+<img width="400" alt="Screenshot 2023-10-18 104309" src="https://github.com/abitewaddisu/javascript_mini_projects/assets/104774854/dc4cab9b-cf34-402d-bd59-e095093aa0f4">
