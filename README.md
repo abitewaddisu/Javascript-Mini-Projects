@@ -47,3 +47,10 @@ In rotating navigation, the navigation options are presented in a circular or ro
 
 <img width="400" alt="Screenshot 2023-10-18 104216" src="https://github.com/abitewaddisu/javascript_mini_projects/assets/104774854/a4b3c851-a8f5-43a5-9e11-2fe1200e12bc">
 <img width="400" alt="Screenshot 2023-10-18 104309" src="https://github.com/abitewaddisu/javascript_mini_projects/assets/104774854/dc4cab9b-cf34-402d-bd59-e095093aa0f4">
+
+#### 6. Hidden Search
+
+A hidden search bar, also known as a collapsible or toggleable search bar, is a user interface design element where the search input field or search bar is initially hidden from view and can be revealed when clicking on a search button icon with cool transition animation. The purpose of a hidden search bar is to provide a clean and uncluttered user interface by hiding the search functionality until it is needed. This approach allows users to access the search feature when they actively want to perform a search, while keeping it out of the way when they are engaged in other tasks.
+
+<img width="400" alt="Screenshot 2023-10-19 081321" src="https://github.com/abitewaddisu/javascript_mini_projects/assets/104774854/4705f388-408d-4187-87d2-244965907130">
+<img width="400" alt="Screenshot 2023-10-19 081241" src="https://github.com/abitewaddisu/javascript_mini_projects/assets/104774854/c628068a-3c0b-4cf1-893a-a265c9571d7e">
