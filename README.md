@@ -54,3 +54,12 @@ A hidden search bar, also known as a collapsible or toggleable search bar, is a 
 
 <img width="400" alt="Screenshot 2023-10-19 081321" src="https://github.com/abitewaddisu/javascript_mini_projects/assets/104774854/4705f388-408d-4187-87d2-244965907130">
 <img width="400" alt="Screenshot 2023-10-19 081241" src="https://github.com/abitewaddisu/javascript_mini_projects/assets/104774854/c628068a-3c0b-4cf1-893a-a265c9571d7e">
+
+#### 7. Blurry Loading
+
+Blurry loading refers to a situation where images or content appear initially in a blurred or low-quality state during the loading process and gradually become clear as the loading completes. This effect is often observed in web pages or applications that prioritize faster loading times or have large media files to load. The purpose of blurry loading is to provide a better user experience by showing some form of visual content quickly while the high-resolution or detailed version is still being loaded. It gives the impression that the page or application is loading faster since users can see something rather than a blank or empty screen.
+
+<img width="200" alt="Screenshot 2023-10-20 102237" src="https://github.com/abitewaddisu/javascript_mini_projects/assets/104774854/40e9c655-d2fc-42dc-bbce-73d9d048da3a">
+<img width="200" alt="Screenshot 2023-10-20 102437" src="https://github.com/abitewaddisu/javascript_mini_projects/assets/104774854/12cf24c7-2a19-488c-993f-7858d6feb5ab">
+<img width="200" alt="Screenshot 2023-10-20 102532" src="https://github.com/abitewaddisu/javascript_mini_projects/assets/104774854/9ef44ca0-0b9f-4d29-b7ec-9f0381ac4677">
+<img width="200" alt="Screenshot 2023-10-20 102612" src="https://github.com/abitewaddisu/javascript_mini_projects/assets/104774854/0cb9d811-9494-44b4-b517-196f31e7d213">
